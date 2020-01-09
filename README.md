@@ -1,4 +1,6 @@
-# snap-login-kit-starter
+# MLH Snap Login Kit Focus Group Starter Code
+
+This is the starter code the Snap Login Kit SDK. Follow the instructions and implement the Login Kit to the best of your ability. Please provide detailed feedback to help improve the developer experience for future Snap Kit developers.
 
 # App Registration
 
