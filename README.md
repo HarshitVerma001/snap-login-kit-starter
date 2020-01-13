@@ -8,7 +8,7 @@ You need to register your app at the [Snap Kit developer portal](https://kit.sna
 
 App registration is an important part of the workflow. Login Kit requires both the `bundleID` and a `clientID`. At runtime, Snapchat will verify that the content to be shared is redirected from a legitimate app.
 
-Two OAuth2 `clientIDs` will be automatically generated when you register an app on the Snap Kit developer portal. You will receive a Production clientID and a Development clientID.
+Two OAuth `clientIDs` will be automatically generated when you register an app on the Snap Kit developer portal. You will receive a Production clientID and a Development clientID.
 
 For this focus group you will use the Development `clientID`
 
